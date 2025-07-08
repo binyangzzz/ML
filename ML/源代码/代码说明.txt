@@ -1,0 +1,13 @@
+batch_gradient.py:批梯度下降线性回归
+data_pre.py:数据预处理
+data_trans.py:特征编码
+ensemble_learning.py:自定义学习器集成学习
+gradient.py:梯度下降线性回归
+k-full.py:k近邻填充数据
+linear.py:最小二乘法线性回归
+random_gradient.py:随机梯度下降线性回归
+NN_classify.py:神经网络分类算法
+NN_regression.py:神经网络回归算法
+SVM:SVM模型
+randomforest.py:随机森林法
+z-score.py:z-score检查异常值
